@@ -1,5 +1,5 @@
 package com.example.democompany.employer;
 
 public enum Role {
-    Manager, Worker1, Worker2
+    Manager, Worker1, Worker2, Director
 }
